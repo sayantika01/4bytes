@@ -1,9 +1,9 @@
 # FUEL PRICE VARIATIONS
-<!--<br /> -->
+<br />
 <div align="center">
   <a href="https://github.com/sayantika01/4bytes/">
-    <img src="https://github.com/sayantika01/4bytes/assets/126873883/0d980c05-2fbd-4a93-a571-e3be5ec7ea3a.jpeg" width="120" height="120" >
     <img src="https://github.com/sayantika01/4bytes/assets/126873883/3b494793-8b81-46ff-b10a-cd6d72637fe4.jpeg" width="120" height="120" >
+    <img src="https://github.com/sayantika01/4bytes/assets/126873883/0d980c05-2fbd-4a93-a571-e3be5ec7ea3a.jpeg" width="120" height="120" >
  
   </a>
 
@@ -57,6 +57,31 @@ Since this is the first project, we faced a different types of challenges.
 ### 🎯FURTHER UPDATION ON THE PROJECT🎯
   <br>	We can add more features to enhance the site.</br>
   <br>	We can add more details on the prices and expand the area coverage under it.</br>
+
+### BUILT WITH TECHNOLOGIES:
+  
+  <br>i.	PYTHON</br>
+  <br>ii.	JAVASCRIPT</br>
+  <br>iii.	HTML</br>
+  <br>iv.	CSS</br>
+
+
+### ROADMAP:
+  <br> Landing page</br>
+  <br>	Selecting Options( For Cities, States, Countries)</br>
+  <br>	Add Backend to fetch data</br>
+  <br>	Display Page containing the data and graphs</br>
+  <br>	Deploy in git</br>
+
+  <br>
+<div>
+<h1 align="center">
+  <p>❤️CONTRIBUTERS❤️</p>
+ <b> FROM THE MEMBERS OF 4BYTES
+<h1>
+</div>
+
+
 
 
 
