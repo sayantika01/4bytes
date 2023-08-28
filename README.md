@@ -37,6 +37,29 @@
 - <H3>Supply Chain Insights:</H3> Monitoring fuel prices could provide insights into the stability and efficiency of fuel supply chains. Any sudden changes in prices could be indicative of supply disruptions or geopolitical events affecting the energy market.
 
 ### 🔎OVERVIEW :🔍
+•	In the landing page the user will come across three criteria to choose from:- 
+    <br><b>o	FUEL TYPE</b></br>
+    <br><b>o	COUNTRY NAMES</b></br>
+    <br><b>o	CITY NAMES</b></br>
+<br>•	On clicking on ‘Click here’ the user will be directed to a new tab where they will get to know about the prices and the corresponding graphs.</br>
+<br>•	State-wise Price Comparison: The project will collect and display the current prices of petrol and diesel across different city in different states across the countries in Asia allowing users to compare prices easily.</br>
+<br>•	Historical Price Trends: Users can view historical price variations through graphs and charts, helping them analyse the price fluctuations over the time.</br>
+
+### 😢CHALLENGES FACED:😢
+Since this is the first project, we faced a different types of challenges.
+-	We faced problem in fetching data for the fuel prices.
+-	We too faced a lot problem in the implementation of graphs corresponding to the data.
+-	While working on it there was multiple errors to handle.
+-	Going so far, in the case of readme I faced problem in previewing the image.
+
+### 🎯FURTHER UPDATION ON THE PROJECT🎯
+  <br>	We can add more features to enhance the site.</br>
+  <br>	We can add more details on the prices and expand the area coverage under it.</br>
+
+
+
+        
+
 
 
 
