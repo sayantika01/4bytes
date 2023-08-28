@@ -1,11 +1,13 @@
 # FUEL PRICE VARIATIONS
 <br />
+
 <div align="center">
+   <img src="https://github.com/sayantika01/4bytes/assets/126873883/44b82fb6-e1d3-4894-b768-cf3c3bc92b67" width="120" height="120">
   <a href="https://github.com/sayantika01/4bytes/">
-    <img src="https://github.com/sayantika01/4bytes/assets/126873883/3b494793-8b81-46ff-b10a-cd6d72637fe4.jpeg" width="120" height="120" >
-    <img src="https://github.com/sayantika01/4bytes/assets/126873883/0d980c05-2fbd-4a93-a571-e3be5ec7ea3a.jpeg" width="120" height="120" >
+   
  
   </a>
+
 
   # Fuel Price
   ## Market Price vs Formula Price 
